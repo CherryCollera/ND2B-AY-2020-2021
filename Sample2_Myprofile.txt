@@ -1,0 +1,18 @@
+﻿using System;
+
+namespace Sample2_MyProfile
+{
+   
+    class program
+    {
+       
+            static void Main(String []args)
+        {
+            Console.WriteLine("Name: " + " Ivan T. Dela Rosa");
+            Console.WriteLine("BirthDate: " + " January 08, 2000");
+            Console.WriteLine("Course: " + " BS Computer Science");
+            Console.WriteLine("Year&Section: " + "2nd Year Network and Data Communication");
+            Console.ReadLine();
+        }
+    }
+}

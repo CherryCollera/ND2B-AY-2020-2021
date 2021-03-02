@@ -1,0 +1,20 @@
+﻿using System;
+
+
+namespace Sample3_InputMyName3
+{
+    class Program
+    {
+        static void Main(String[] args) { 
+            Console.Write("Enter your Firstname and Lastname:");
+            String Name = Console.ReadLine();
+
+        Console.WriteLine("Hello" + Name + "!!!" );
+            Console.WriteLine("Welcome to OOP Environments ");
+
+            Console.ReadLine();
+
+ 
+        }
+    }
+}
