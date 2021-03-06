@@ -1,0 +1,7 @@
+C:\Users\Jay\source\repos\Sample4_ComputeTheSum\Sample4_ComputeTheSum\bin\Debug\Sample4_ComputeTheSum.exe.config
+C:\Users\Jay\source\repos\Sample4_ComputeTheSum\Sample4_ComputeTheSum\bin\Debug\Sample4_ComputeTheSum.exe
+C:\Users\Jay\source\repos\Sample4_ComputeTheSum\Sample4_ComputeTheSum\bin\Debug\Sample4_ComputeTheSum.pdb
+C:\Users\Jay\source\repos\Sample4_ComputeTheSum\Sample4_ComputeTheSum\obj\Debug\Sample4_ComputeTheSum.csprojAssemblyReference.cache
+C:\Users\Jay\source\repos\Sample4_ComputeTheSum\Sample4_ComputeTheSum\obj\Debug\Sample4_ComputeTheSum.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\Sample4_ComputeTheSum\Sample4_ComputeTheSum\obj\Debug\Sample4_ComputeTheSum.exe
+C:\Users\Jay\source\repos\Sample4_ComputeTheSum\Sample4_ComputeTheSum\obj\Debug\Sample4_ComputeTheSum.pdb

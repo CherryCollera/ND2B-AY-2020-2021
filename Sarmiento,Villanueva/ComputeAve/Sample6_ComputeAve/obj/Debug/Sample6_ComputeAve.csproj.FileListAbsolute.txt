@@ -1,0 +1,7 @@
+C:\Users\Jay\source\repos\Sample6_ComputeAve\Sample6_ComputeAve\obj\Debug\Sample6_ComputeAve.csprojAssemblyReference.cache
+C:\Users\Jay\source\repos\Sample6_ComputeAve\Sample6_ComputeAve\obj\Debug\Sample6_ComputeAve.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\Sample6_ComputeAve\Sample6_ComputeAve\bin\Debug\Sample6_ComputeAve.exe.config
+C:\Users\Jay\source\repos\Sample6_ComputeAve\Sample6_ComputeAve\bin\Debug\Sample6_ComputeAve.exe
+C:\Users\Jay\source\repos\Sample6_ComputeAve\Sample6_ComputeAve\bin\Debug\Sample6_ComputeAve.pdb
+C:\Users\Jay\source\repos\Sample6_ComputeAve\Sample6_ComputeAve\obj\Debug\Sample6_ComputeAve.exe
+C:\Users\Jay\source\repos\Sample6_ComputeAve\Sample6_ComputeAve\obj\Debug\Sample6_ComputeAve.pdb

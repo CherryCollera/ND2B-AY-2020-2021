@@ -1,0 +1,7 @@
+C:\Users\Jay\source\repos\Sample7_DeclaringConstants\Sample7_DeclaringConstants\obj\Debug\Sample7_DeclaringConstants.csprojAssemblyReference.cache
+C:\Users\Jay\source\repos\Sample7_DeclaringConstants\Sample7_DeclaringConstants\obj\Debug\Sample7_DeclaringConstants.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\Sample7_DeclaringConstants\Sample7_DeclaringConstants\bin\Debug\Sample7_DeclaringConstants.exe.config
+C:\Users\Jay\source\repos\Sample7_DeclaringConstants\Sample7_DeclaringConstants\bin\Debug\Sample7_DeclaringConstants.exe
+C:\Users\Jay\source\repos\Sample7_DeclaringConstants\Sample7_DeclaringConstants\bin\Debug\Sample7_DeclaringConstants.pdb
+C:\Users\Jay\source\repos\Sample7_DeclaringConstants\Sample7_DeclaringConstants\obj\Debug\Sample7_DeclaringConstants.exe
+C:\Users\Jay\source\repos\Sample7_DeclaringConstants\Sample7_DeclaringConstants\obj\Debug\Sample7_DeclaringConstants.pdb

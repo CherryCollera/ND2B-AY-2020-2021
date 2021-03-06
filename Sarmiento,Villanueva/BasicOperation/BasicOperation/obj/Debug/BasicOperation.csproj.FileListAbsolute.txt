@@ -1,0 +1,7 @@
+C:\Users\Jay\source\repos\BasicOperation\BasicOperation\bin\Debug\BasicOperation.exe.config
+C:\Users\Jay\source\repos\BasicOperation\BasicOperation\bin\Debug\BasicOperation.exe
+C:\Users\Jay\source\repos\BasicOperation\BasicOperation\bin\Debug\BasicOperation.pdb
+C:\Users\Jay\source\repos\BasicOperation\BasicOperation\obj\Debug\BasicOperation.csprojAssemblyReference.cache
+C:\Users\Jay\source\repos\BasicOperation\BasicOperation\obj\Debug\BasicOperation.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\BasicOperation\BasicOperation\obj\Debug\BasicOperation.exe
+C:\Users\Jay\source\repos\BasicOperation\BasicOperation\obj\Debug\BasicOperation.pdb

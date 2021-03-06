@@ -1,0 +1,6 @@
+C:\Users\Jay\source\repos\Sample5_ComputeTheSum_Double\Sample5_ComputeTheSum_Double\bin\Debug\Sample5_ComputeTheSum_Double.exe.config
+C:\Users\Jay\source\repos\Sample5_ComputeTheSum_Double\Sample5_ComputeTheSum_Double\bin\Debug\Sample5_ComputeTheSum_Double.exe
+C:\Users\Jay\source\repos\Sample5_ComputeTheSum_Double\Sample5_ComputeTheSum_Double\bin\Debug\Sample5_ComputeTheSum_Double.pdb
+C:\Users\Jay\source\repos\Sample5_ComputeTheSum_Double\Sample5_ComputeTheSum_Double\obj\Debug\Sample5_ComputeTheSum_Double.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\Sample5_ComputeTheSum_Double\Sample5_ComputeTheSum_Double\obj\Debug\Sample5_ComputeTheSum_Double.exe
+C:\Users\Jay\source\repos\Sample5_ComputeTheSum_Double\Sample5_ComputeTheSum_Double\obj\Debug\Sample5_ComputeTheSum_Double.pdb
