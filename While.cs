@@ -7,14 +7,15 @@ namespace While
     {
         public static void Main(string[] args)
         {
-		int MMV09 = 0;
-		while (MMV09 < 10)
+		int Dela = 0;
+		while (Dela < 10)
 		{
 			Console.Write("While statement");
 			Console.WriteLine();
-			MMV09++;
+			Dela++;
 		
         }
-    }
+    
+}
 }
 }

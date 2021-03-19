@@ -1,19 +1,18 @@
 using System;
-using System.IO;
+
 
 namespace For
 {
 
     public class Program 
     {
-        public static void Main()
+static void Main(string[] args)
         {
-			for (int MMV09 = 10 - 1; MMV09 >= 0; MMV09--) ;
-
+        			for (int nav1 = 10 - 1; nav1 >= 0; nav1--)
 		{
-			Console.WriteLine();
-        }
-        Console.ReadKey();
+					Console.WriteLine(nav1);
+					        }
+					                Console.ReadKey();
+					                    }
     }
-        }
-    }
+}
