@@ -1,0 +1,161 @@
+﻿namespace WinFormsApp3_Villanueva
+{
+    partial class Form3
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.BtnInteger = new System.Windows.Forms.Button();
+            this.BtnFloat = new System.Windows.Forms.Button();
+            this.BtnDouble = new System.Windows.Forms.Button();
+            this.BtnSum = new System.Windows.Forms.Button();
+            this.fnum = new System.Windows.Forms.Label();
+            this.snum = new System.Windows.Forms.Label();
+            this.txtBox1 = new System.Windows.Forms.TextBox();
+            this.txtBox2 = new System.Windows.Forms.TextBox();
+            this.clearform3 = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // BtnInteger
+            // 
+            this.BtnInteger.Location = new System.Drawing.Point(42, 30);
+            this.BtnInteger.Name = "BtnInteger";
+            this.BtnInteger.Size = new System.Drawing.Size(137, 33);
+            this.BtnInteger.TabIndex = 0;
+            this.BtnInteger.Text = "Integer";
+            this.BtnInteger.UseVisualStyleBackColor = true;
+            this.BtnInteger.Click += new System.EventHandler(this.BtnInteger_Click);
+            // 
+            // BtnFloat
+            // 
+            this.BtnFloat.Location = new System.Drawing.Point(234, 30);
+            this.BtnFloat.Name = "BtnFloat";
+            this.BtnFloat.Size = new System.Drawing.Size(137, 37);
+            this.BtnFloat.TabIndex = 1;
+            this.BtnFloat.Text = "Float";
+            this.BtnFloat.UseVisualStyleBackColor = true;
+            this.BtnFloat.Click += new System.EventHandler(this.BtnFloat_Click);
+            // 
+            // BtnDouble
+            // 
+            this.BtnDouble.Location = new System.Drawing.Point(420, 30);
+            this.BtnDouble.Name = "BtnDouble";
+            this.BtnDouble.Size = new System.Drawing.Size(137, 33);
+            this.BtnDouble.TabIndex = 2;
+            this.BtnDouble.Text = "Double";
+            this.BtnDouble.UseVisualStyleBackColor = true;
+            this.BtnDouble.Click += new System.EventHandler(this.BtnDouble_Click);
+            // 
+            // BtnSum
+            // 
+            this.BtnSum.Location = new System.Drawing.Point(234, 196);
+            this.BtnSum.Name = "BtnSum";
+            this.BtnSum.Size = new System.Drawing.Size(137, 33);
+            this.BtnSum.TabIndex = 3;
+            this.BtnSum.Text = "Compute Sum";
+            this.BtnSum.UseVisualStyleBackColor = true;
+            this.BtnSum.Click += new System.EventHandler(this.BtnSum_Click);
+            // 
+            // fnum
+            // 
+            this.fnum.AutoSize = true;
+            this.fnum.Location = new System.Drawing.Point(24, 120);
+            this.fnum.Name = "fnum";
+            this.fnum.Size = new System.Drawing.Size(105, 15);
+            this.fnum.TabIndex = 4;
+            this.fnum.Text = "Enter first number:";
+            // 
+            // snum
+            // 
+            this.snum.AutoSize = true;
+            this.snum.Location = new System.Drawing.Point(313, 120);
+            this.snum.Name = "snum";
+            this.snum.Size = new System.Drawing.Size(123, 15);
+            this.snum.TabIndex = 5;
+            this.snum.Text = "Enter second number:";
+            // 
+            // txtBox1
+            // 
+            this.txtBox1.Location = new System.Drawing.Point(135, 117);
+            this.txtBox1.Name = "txtBox1";
+            this.txtBox1.Size = new System.Drawing.Size(139, 23);
+            this.txtBox1.TabIndex = 6;
+            this.txtBox1.TextChanged += new System.EventHandler(this.txtBox1_TextChanged);
+            // 
+            // txtBox2
+            // 
+            this.txtBox2.Location = new System.Drawing.Point(442, 117);
+            this.txtBox2.Name = "txtBox2";
+            this.txtBox2.Size = new System.Drawing.Size(123, 23);
+            this.txtBox2.TabIndex = 7;
+            this.txtBox2.TextChanged += new System.EventHandler(this.txtBox2_TextChanged);
+            // 
+            // clearform3
+            // 
+            this.clearform3.Location = new System.Drawing.Point(234, 157);
+            this.clearform3.Name = "clearform3";
+            this.clearform3.Size = new System.Drawing.Size(137, 33);
+            this.clearform3.TabIndex = 8;
+            this.clearform3.Text = "Clear";
+            this.clearform3.UseVisualStyleBackColor = true;
+            this.clearform3.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // Form3
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.DarkGray;
+            this.ClientSize = new System.Drawing.Size(600, 241);
+            this.Controls.Add(this.clearform3);
+            this.Controls.Add(this.txtBox2);
+            this.Controls.Add(this.txtBox1);
+            this.Controls.Add(this.snum);
+            this.Controls.Add(this.fnum);
+            this.Controls.Add(this.BtnSum);
+            this.Controls.Add(this.BtnDouble);
+            this.Controls.Add(this.BtnFloat);
+            this.Controls.Add(this.BtnInteger);
+            this.Name = "Form3";
+            this.Text = "Form3";
+            this.Load += new System.EventHandler(this.Form3_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Button BtnInteger;
+        private System.Windows.Forms.Button BtnFloat;
+        private System.Windows.Forms.Button BtnDouble;
+        private System.Windows.Forms.Button BtnSum;
+        private System.Windows.Forms.Label fnum;
+        private System.Windows.Forms.Label snum;
+        private System.Windows.Forms.TextBox txtBox1;
+        private System.Windows.Forms.TextBox txtBox2;
+        private System.Windows.Forms.Button clearform3;
+    }
+}
